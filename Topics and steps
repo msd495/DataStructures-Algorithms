@@ -1,7 +1,7 @@
 Patterns for coding interview:
 
 1)Sliding Window
-2)Pointers or Iterators
+2)Pointers or Iterators(Containers with most water)
 3)Fast and Slow Pointers or Iterators
 4)Merge Intervals(overlapping intervals or merge intervals)
 5)Cyclic sort
