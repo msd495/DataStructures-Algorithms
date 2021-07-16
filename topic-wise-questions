@@ -155,28 +155,42 @@ Huffman Decoding
 Minimum Spanning Tree
 Shop in Candy Store
 Geek collects the balls
-Dynamic Programming :
 
-Minimum Operations
-Max length chain
-Minimum number of Coins
-Longest Common Substring
-Longest Increasing Subsequence
-Longest Common Subsequence
-0 – 1 Knapsack Problem
-Maximum sum increasing subsequence
-Minimum number of jumps
-Edit Distance
-Coin Change Problem
-Subset Sum Problem
-Box Stacking
-Rod Cutting
-Path in Matrix
-Minimum sum partition
-Count number of ways to cover a distance
-Egg Dropping Puzzle
-Optimal Strategy for a Game
-Shortest Common Supersequence
+Dynamic Programming :
+EASY:
+121. Best time to buy and sell stock
+198. House Robber
+256. Paint House
+
+MEDIUM:
+63. Unique Paths II
+64. Minimum Path Sum
+91. Decode Ways
+139. Word Break
+221. Maximal Square
+300. Longest Increasing Subsequence
+322. Coin Change
+464. Can I Win
+474. Ones and Zeroes
+516. Longest Palindromic Subsequence
+698. Partition to K Equal Sum Subsets
+787. Cheapest Flights Within K Stops
+1027. Longest Arithmetic Sequence
+1049. Last Stone Weight II
+1105. Filling Bookcase Shelves
+1143. Longest Common Subsequence
+1155. Dice Roll Sum
+
+HARD:
+32. Longest Valid Parantheses
+44. Wildcard Matching
+72. Edit Distance
+123. Best Time to Buy and Sell Stock III
+312. Burst Balloons
+1000. Minimum Cost to Merge Stones
+1335. Minimum Difficulty of a Job Schedule
+
+
 Divide and Conquer :
 
 Find the element that appears once in sorted array
