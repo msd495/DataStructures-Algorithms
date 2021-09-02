@@ -1,5 +1,16 @@
 1).Array(very imp)
-sorting,searching,sliding window,two pinters,Fast&Slow pointers,Merge Intervals
+
+sorting:
+searching:
+sliding window:
+a).Maximum Sum Subarray of Size K (easy)
+b).smallest contiguous subarray whose sum is greater than or equal to ‘S’
+c).Longest Substring with maximum K Distinct Characters(medium)-->variable size window
+two pinters:
+Fast&Slow:
+pointers:
+Merge Intervals:
+
 2).Linked List(2-3 questions)
 3).DP (10 questions)
 All famous patterns
