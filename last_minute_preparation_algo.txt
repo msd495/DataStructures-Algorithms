@@ -3,9 +3,10 @@
 sorting:
 searching:
 sliding window:
-a).Maximum Sum Subarray of Size K (easy)
+a).Maximum Sum Subarray of Size K (easy)-fixed size window
 b).smallest contiguous subarray whose sum is greater than or equal to ‘S’
 c).Longest Substring with maximum K Distinct Characters(medium)-->variable size window
+d).fruits into basket (medium) -->variable size window
 two pinters:
 Fast&Slow:
 pointers:
