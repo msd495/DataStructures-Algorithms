@@ -33,7 +33,7 @@ Merge Intervals:
 3).DP (10 questions)
 All famous patterns
 4).Trees & Graphs 
-1).Path with maximum gold.
+1).Path with maximum gold/rat-maze problem
 2).Number of distinct islands
 3).Max Area of island
 4).Number of islands
