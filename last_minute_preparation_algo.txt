@@ -34,9 +34,9 @@ Merge Intervals:
 All famous patterns
 4).Trees & Graphs 
 1).Path with maximum gold/rat-maze problem (problem of backtracking--with visited arr and blocked path)
-2).Number of distinct islands (simple dfs on matrix)
+2).Number of distinct islands (simple dfs on matrix + store structures in set)
 3).Max Area of island
-4).Number of islands
+4).Number of islands(simple dfs on matrix,mark visited as 0)
 5).Clone graph
 6).no of closed islands
 7).no of connected components in directed graph
