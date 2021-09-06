@@ -40,7 +40,7 @@ All famous patterns
 5).Clone graph
 6).no of closed islands
 7).no of connected components in directed graph
-8).course schedule
+8).course schedule--->(we have to find if there is cycle in graph or not)
 9).Rotten orange
 10).letter combination of phone no
 11).n queens
